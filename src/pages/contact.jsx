@@ -11,6 +11,7 @@ const ContactPage = () => {
       <p>Información de contacto</p>
       <p>Para contactar conmingo: <a href="https://twitter.com/jorgeros2" target="_blank" rel="noreferrer">@jorgeros2</a> en twitter.</p>
       <Footer />
+      
     </div>
   )
 }
